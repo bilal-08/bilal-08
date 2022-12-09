@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on nothing
+- 🔭 I’m currently working on hobby project
 - 🌱 I’m currently learning Typescript
 - 📫 How to reach me: discord : bilal_08#2999
 
